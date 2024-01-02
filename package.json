@@ -1,11 +1,16 @@
 {
-  "name": "untitled",
+  "name": "dmitrys-memberstack",
+  "config": {
+    "ghUserName": "YNDmitry",
+    "repositryName": "publish-test"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "publish": "sh /Users/macbookprom1/WebstormProjects/webflow-publish/publish.sh",
     "preview": "vite preview"
   },
   "devDependencies": {

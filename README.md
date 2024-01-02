@@ -43,8 +43,8 @@ Make the following changes in the `package.json` file:
 
 1. Set the `"name"` field to be the same as your project's name.
 2. Create a new `"config"` object inside the file.
-3. Add `"ghUserName": "<username>"` and `"repositoryName": "<your repository name>"` to `"config"`.
-4. For WebStorm users: you can add a publication script directly in the project. Add `"sh <path to publish.sh>"` to `"build"`.
+4. Add `"ghUserName": "<username>"` and `"repositoryName": "<your repository name>"` and `"browser": "<browser>"` to `"config"` Available browsers **choise 1!!!** [chrome, chromium, opera, opera_gx, brave, arc, edge, vivaldi, firefox, librewolf, safari].
+5. For WebStorm users: you can add a publication script directly in the project. Add `"sh <path to publish.sh>"` to `"build"`.
 
    To get the path to the file, drag it into the terminal, copy the path, and insert it into the settings.
 

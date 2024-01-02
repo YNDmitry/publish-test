@@ -21,4 +21,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   </div>
 `
 
+console.log('Hello hello from python!!!')
+
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)

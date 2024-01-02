@@ -43,7 +43,7 @@ git push -u origin master
 
 1. Установите поле `"name"` таким же, как название вашего проекта.
 2. Создайте новый объект `"config"` внутри файла.
-3. Добавьте в `"config"` поля `"ghUserName": "<username>"` и `"repositoryName": "<your repository name>"`.
+3. Добавьте в `"config"` поля `"ghUserName": "<username>"` и `"repositoryName": "<your repository name>"` и `"browser": "<browser>"` - Доступные браузеры **ВЫБЕРИТЕ 1!!!** [chrome, chromium, opera, opera_gx, brave, arc, edge, vivaldi, firefox, librewolf, safari].
 4. Для пользователей WebStorm: можно добавить скрипт публикации непосредственно в проект. Для этого в `"build"` добавьте `"sh <путь до publish.sh>"`.
 
    Чтобы получить путь к файлу, перетащите его в терминал, скопируйте путь и вставьте в настройки.

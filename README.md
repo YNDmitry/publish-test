@@ -50,7 +50,7 @@ Make the following changes in the `package.json` file:
 
 ## Step 6: Preparing for Publication
 
-Before publishing, make sure you are logged into your account on the corresponding site.
+Before publishing, make sure you are logged into your account on the corresponding site. Also remove dist folder from .gitignore
 
 ## Step 7: Building the Project
 

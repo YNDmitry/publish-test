@@ -3,7 +3,7 @@
   "config": {
     "ghUserName": "YNDmitry",
     "repositoryName": "publish-test",
-    "browser": "arc"
+    "browser": "arcc"
   },
   "private": true,
   "version": "0.0.0",

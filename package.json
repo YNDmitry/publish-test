@@ -1,10 +1,5 @@
 {
   "name": "dmitrys-memberstack",
-  "config": {
-    "ghUserName": "YNDmitry",
-    "repositoryName": "publish-test",
-    "browser": "arc"
-  },
   "private": true,
   "version": "0.0.0",
   "type": "module",

@@ -2,8 +2,7 @@
   "name": "dmitrys-memberstack",
   "config": {
     "ghUserName": "YNDmitry",
-    "repositoryName": "publish-test",
-    "browser": "arc"
+    "repositoryName": "publish-test"
   },
   "private": true,
   "version": "0.0.0",

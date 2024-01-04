@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "publish": "/Users/macbookprom1/WebstormProjects/webflow-publish/dist/publish",
+    "publish": "/Users/macbookprom1/WebstormProjects/webflow-publish/build/exe.macosx-14-arm64-3.11/publish",
     "preview": "vite preview"
   },
   "devDependencies": {
